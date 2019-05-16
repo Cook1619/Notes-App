@@ -53,7 +53,7 @@ const removedNote = function (title) {
 }
 
 module.exports = {
-    getNotes: getNotes,
-    addNote: addNote,
-    removedNote: removedNote
+    getNotes,
+    addNote,
+    removedNote
 }
